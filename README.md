@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis
+# CREDIT RISK ANALYSIS
 
 ## Executive Summary
 
